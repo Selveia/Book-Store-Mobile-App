@@ -26,3 +26,5 @@ Dark mode option is also available
 An action bar is added to easily reach importatnt options
 
 Sign up and Sign in process are very easy and secure
+
+Firebase database is used
